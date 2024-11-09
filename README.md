@@ -6,7 +6,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I possess a dearth of experience 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
