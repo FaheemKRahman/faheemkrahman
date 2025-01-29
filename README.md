@@ -10,7 +10,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Portfolio
 This portfolio will gradually be updated with projects. 
 
-- [NMAP] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
+- [NMAP Commands] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
+- [MAC Address Spoofing] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
 
 
 ## Connections
