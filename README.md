@@ -2,7 +2,7 @@
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous roles
 
-## Objective
+## Motivation
 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
