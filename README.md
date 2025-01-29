@@ -8,8 +8,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
 
 ## Portfolio
-This portfolio will gradually be updated with projects. //
-[NMAP] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
+This portfolio will gradually be updated with projects. 
+
+- [NMAP] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 
 
 ## Connections
