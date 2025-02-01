@@ -12,6 +12,7 @@ This portfolio will gradually be updated with projects.
 
 - [NMAP Commands] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
+- [Password Cracking] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/Password%20Cracking.ipynb)
 
 
 ## Connections
