@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
 
 ## Portfolio
-This portfolio will gradually be updated with projects. 
+This portfolio will gradually be updated with projects. There are in the form of Jupyter Notebooks containing project writeups.
 
 - [NMAP Commands] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
