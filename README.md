@@ -13,6 +13,7 @@ This portfolio will gradually be updated with projects. There are in the form of
 - [NMAP Commands] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
 - [Password Cracking] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/Password%20Cracking.ipynb)
+- [Wi-Fi Scanning with Windows Powershell] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/WiFi%20Scanning.ipynb)
 
 
 ## Connections
