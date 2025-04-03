@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Academic Papers
 A short list of academic papers authored or co-authored during my studied at University of Birmingham
-- [Ransomware] (ransomware.pdf)
+- [Ransomware] ([ransomware.pdf](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf))
 
 
 ## Portfolio
