@@ -9,16 +9,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Academic Papers
 A short list of academic papers authored or co-authored during my studied at University of Birmingham
-- [Ransomware] ([ransomware.pdf](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf))
+- ([Ransomware](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf))
 
 
 ## Portfolio
 This portfolio will gradually be updated with projects. There are in the form of Jupyter Notebooks containing project writeups.
 
-- [NMAP Commands] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
-- [MAC Address Spoofing] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
-- [Password Cracking] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/Password%20Cracking.ipynb)
-- [Wi-Fi Scanning with Windows Powershell] (https://github.com/FaheemKRahman/faheemkrahman/blob/main/WiFi%20Scanning.ipynb)
+- ([NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb))
+- ([MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb))
+- ([Password Cracking](https://github.com/FaheemKRahman/faheemkrahman/blob/main/Password%20Cracking.ipynb))
+- ([Wi-Fi Scanning with Windows Powershell](https://github.com/FaheemKRahman/faheemkrahman/blob/main/WiFi%20Scanning.ipynb))
 
 
 ## Connections
