@@ -7,6 +7,11 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
 
+## Academic Papers
+A short list of academic papers authored or co-authored during my studied at University of Birmingham
+- [Ransomware] (ransomware.pdf)
+
+
 ## Portfolio
 This portfolio will gradually be updated with projects. There are in the form of Jupyter Notebooks containing project writeups.
 
