@@ -8,7 +8,7 @@ I am a current MSc Cyber Security student with a profound interest in technology
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
 
 ## Academic Papers
-A short list of academic papers authored or co-authored during my studies at University of Birmingham
+A short list of academic papers authored or co-authored during my studies at University of Birmingham.
 - [Ransomware](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf) (co-authored)
 - [Penetration Test on an IoT Device](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf) (co-authored)
 
@@ -23,7 +23,7 @@ This portfolio will gradually be updated with projects. There are in the form of
 
 
 ## Connections
-Feel free to connect with me on LinkedIn and TryHackMe, the links of both are below
+Feel free to connect with me on LinkedIn and TryHackMe, the links of both are below.
 
 <a href="https://www.linkedin.com/in/faheemkrahman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/DoritoSheep38">
