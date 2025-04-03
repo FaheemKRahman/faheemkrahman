@@ -10,6 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Academic Papers
 A short list of academic papers authored or co-authored during my studies at University of Birmingham
 - [Ransomware](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf)
+- [Penetration Test on an IoT Device](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf)
 
 
 ## Portfolio
