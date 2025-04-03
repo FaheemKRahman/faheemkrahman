@@ -1,6 +1,6 @@
 # Hi there, I'm Faheem!
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous roles
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous projects.
 
 ## Motivation
 
@@ -21,5 +21,7 @@ Feel free to connect with me on LinkedIn and TryHackMe, the links of both are be
 
 <a href="https://www.linkedin.com/in/faheemkrahman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/DoritoSheep38">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2423945" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DoritoSheep38.png" alt="Your Image Badge" />
 </a>
+
+
