@@ -13,7 +13,7 @@ A short list of academic papers authored or co-authored during my studies at Uni
 - [Penetration Test on an IoT Device](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf) (co-authored)
 
 
-## Portfolio
+## Projects
 This portfolio will gradually be updated with projects. There are in the form of Jupyter Notebooks containing project writeups.
 
 - [NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
