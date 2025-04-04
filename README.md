@@ -7,7 +7,7 @@ I am a current MSc Cyber Security student with a profound interest in technology
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
 
-## Academic Papers
+## Academic Assignment Papers
 A short list of academic papers authored or co-authored during my studies at University of Birmingham.
 - [Ransomware](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf) (co-authored)
 - [Penetration Test on an IoT Device](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf) (co-authored)
