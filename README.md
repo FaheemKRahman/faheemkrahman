@@ -1,11 +1,11 @@
 # Hi there, I'm Faheem!
 
-I am a current MSc Cyber Security student with a profound interest in technology and a dedication to solving complex problems. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous projects.
+I am a current MSc Cyber Security student with a profound interest in technology. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous projects.
 
 ## Motivation
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to become a penetration tester.
 
 ## Academic Assignment Papers
 A short list of academic papers authored or co-authored during my studies at University of Birmingham.
