@@ -20,6 +20,7 @@ This portfolio will gradually be updated with projects. There are in the form of
 - [MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
 - [Password Cracking](https://github.com/FaheemKRahman/faheemkrahman/blob/main/Password%20Cracking.ipynb)
 - [Wi-Fi Scanning with Windows Powershell](https://github.com/FaheemKRahman/faheemkrahman/blob/main/WiFi%20Scanning.ipynb)
+- [A Simple Keylogger](https://github.com/FaheemKRahman/faheemkrahman/blob/main/Keylogger.ipynb)
 
 
 ## Connections
