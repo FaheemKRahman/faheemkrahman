@@ -1,6 +1,6 @@
 # Hi there, I'm Faheem!
 
-I am a current MSc Cyber Security student with a profound interest in technology. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous projects.
+I am a current Cyber Security student with a profound interest in technology. I possess experience in areas such as network penetration testing and networking security and I have applied this in numerous projects.
 
 ## Motivation
 
