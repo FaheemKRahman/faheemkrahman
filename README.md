@@ -15,7 +15,7 @@ A short list of academic papers authored or co-authored during my studies at Uni
 
 
 ## Projects
-This portfolio will gradually be updated with projects. There are in the form of Jupyter Notebooks containing project writeups.
+This portfolio will gradually be updated with projects.
 
 - [NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
