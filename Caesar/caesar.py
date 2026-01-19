@@ -60,15 +60,27 @@ def break_caesar(ciphertext):
 
     return best_shift, best_plaintext
 
+
+def break_caesar_ranked(ciphertext, top_n=5):
+    results = []
+    for shift in range(26):
+        decrypted = decrypt(ciphertext, shift)
+        score = frequency_analysis(decrypted)
+        results.append((shift, decrypted, score))
+    
+    # A lower score means that the text is closer to English and easier to crack
+    results.sort(key=lambda x: x[2])
+    return results[:top_n]
+
 def main():
     print("=== Caesar Cipher Tool ===")
     print("1) Encrypt")
-    print("2) Decrypt")
-    print("3) Break using frequency analysis")
-    print("4) Exit")
+    #print("2) Decrypt")
+    print("2) Decrypt automatically using frequency analysis")
+    print("3) Exit")
 
 
-    choice = input("\nChoose an option 1-4: ").strip()
+    choice = input("\nChoose an option: ").strip()
 
     if choice == "1":
         text = input("Enter plaintext: ")
@@ -76,20 +88,26 @@ def main():
         print("\nEncrypted text: ")
         print(encrypt(text, shift))
 
+   #elif choice == "2":
+        #text = input("Enter ciphertext: ")
+        #shift = int(input("Enter the shift value: "))
+        #print("\nDecrypted text: ")
+        #print(decrypt(text, shift))
+
     elif choice == "2":
         text = input("Enter ciphertext: ")
-        shift = int(input("Enter the shift value: "))
-        print("\nDecrypted text: ")
-        print(decrypt(text, shift))
+        print("\nAttempting to break using frequency analysis... " )
+        results = break_caesar_ranked(text)
+        for rank, (shift, plaintext, score) in enumerate(results, start=1):
+            print(f"{rank}. Shift {shift}, score is {score:.2f}")
+            print(f"   {plaintext}")
+
+        best_shift, best_plaintext, _ = results[0]
+        print("Best guess: ")
+        print(f"Shift: {best_shift}")
+        print(f"Plaintext: {best_plaintext}")
 
     elif choice == "3":
-        text = input("Enter ciphertext: ")
-        shift, plaintext = break_caesar(text)
-        print("\nCracked Result: ")
-        print(f"Shift: {shift}")
-        print(f"Plaintext: {plaintext}")
-
-    elif choice == "4":
         print("Goodbye!")
         return
     
