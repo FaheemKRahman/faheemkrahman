@@ -5,7 +5,7 @@ I am a current Cyber Security graduate with a profound interest in technology. I
 ## Motivation
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to become a penetration tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to become a penetration tester. I first got a teatse of cyberseucirty when I was in sixth form where we did some 
 
 ## Academic Assignment Papers
 A short list of academic papers authored or co-authored during my studies at University of Birmingham.
@@ -15,7 +15,7 @@ A short list of academic papers authored or co-authored during my studies at Uni
 
 
 ## Projects
-This portfolio will gradually be updated with projects.
+This portfolio will gradually be updated with projects. Most of these are cybersecurity related but there are some non-cyber related projects included.
 
 - [NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
