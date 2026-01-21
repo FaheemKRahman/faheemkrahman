@@ -15,7 +15,7 @@ A short list of academic papers authored or co-authored during my studies at Uni
 
 
 ## Projects
-This portfolio will gradually be updated with projects. Most of these are cybersecurity related but there are some non-cyber related projects included.
+This portfolio will gradually be updated with projects. Most of these are cybersecurity related but there will gradually be some some non-cyber related projects included.
 
 - [NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb)
 - [MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb)
