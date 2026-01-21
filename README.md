@@ -24,6 +24,10 @@ This portfolio will gradually be updated with projects. Most of these are cybers
 - [A Simple Keylogger](https://github.com/FaheemKRahman/faheemkrahman/blob/main/Keylogger.ipynb)
 - [Caesar Cipher program](https://github.com/FaheemKRahman/faheemkrahman/tree/main/Caesar)
 
+Currently working on:
+- A web application pentesting tool
+- A website to gather information on train departures
+
 
 ## Connections
 Feel free to connect with me on LinkedIn and TryHackMe, the links of both are below.
