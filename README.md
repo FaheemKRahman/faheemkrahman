@@ -25,8 +25,6 @@ This portfolio will gradually be updated with projects. Most of these are cybers
 - [Caesar Cipher program](https://github.com/FaheemKRahman/faheemkrahman/tree/main/Caesar)
 - [Web Application Pentesting Tool](https://github.com/FaheemKRahman/webpt) 
 
-Currently working on:
-- A website to gather information on train departures
 
 
 ## Connections
