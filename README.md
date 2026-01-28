@@ -25,6 +25,7 @@ This portfolio will gradually be updated with projects. Most of these are cybers
 - [Caesar Cipher program](https://github.com/FaheemKRahman/faheemkrahman/tree/main/Caesar) - A program of a Caesar cipher encoder and decoder which can automatically guess shift patterns through frequency analysis
 - [Web Application Pentesting Tool](https://github.com/FaheemKRahman/webpt) - A penetration testing tool that scans websites for possible CSRF, SQLi and XSS attacks
 - [DVWA Web Penetration Test](https://github.com/FaheemKRahman/dvwa-web-pentest) - A pentest of the Damn Vulnerable Web Application, with screenshots and write-ups
+- [Active Directory Penetration Testing](https://github.com/FaheemKRahman/ad-attack-lab)
 
 
 
