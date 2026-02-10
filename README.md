@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 A short list of academic papers authored or co-authored during my studies at University of Birmingham.
 - [Automated Generation and Verification of SELinux Profiles to Enhance Software Security](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ProjReport.pdf) (authored)
 - [Ransomware](https://github.com/FaheemKRahman/faheemkrahman/blob/main/ransomware.pdf) (co-authored)
-- [Penetration Test on an IoT Device](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf) (co-authored)
+- [Smart Door Sensor Pentest](https://github.com/FaheemKRahman/faheemkrahman/blob/main/iotpentest.pdf) (co-authored)
 
 
 ## Projects
