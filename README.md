@@ -5,7 +5,7 @@ I am a current Cyber Security graduate with a profound interest in technology. I
 ## Motivation
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to become a penetration tester. I first got a taste of cybersecurity when I was in sixth form where we did some practicals using Wireshark, leading me to pursue a degree in Computer Science. While studying for this, I completed some online courses on cybersecurity, on the topics of network penetration testing and this further piqued my interest in the topic, eventually resulting in me pursing my postgraduate degree in cyber security.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to become a penetration tester. I first got a taste of cybersecurity when I was in sixth form where we completing some practicals on network security using Wireshark, leading me to pursue a degree in Computer Science. While studying for this, I completed some online courses on cybersecurity, on the topics of network penetration testing and this further piqued my interest in the topic, resulting in me pursing my postgraduate degree in cyber security.
 
 ## Academic Assignment Papers
 A short list of academic papers authored or co-authored during my studies at University of Birmingham.
