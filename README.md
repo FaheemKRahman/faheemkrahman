@@ -28,7 +28,7 @@ This portfolio will gradually be updated with projects. Most of these are cybers
 - [Active Directory Penetration Testing](https://github.com/FaheemKRahman/ad-attack-lab) - An Active Directory penetration testing project demonstrating real-world domain enumeration, delegated privilege abuse, and attack path analysis.
 - [Windows Privilege Escalation via Weak Service Binary Permissions](https://github.com/FaheemKRahman/windows-privesc) - A Windows privilege escalation project demonstrating how insecure service configurations can be identified and validated manually.
 - [DoS Detector Tool](https://github.com/FaheemKRahman/dosdetector) - A Python-based defensive DoS detection tool that monitors live network traffic, analyses per-IP packet rates in real time, and flags abnormal traffic spikes indicative of denial-of-service activity.
-- [Spulnk Detection](https://github.com/FaheemKRahman/splunk-practical) - A Windows detection project using Splunk
+- [Splunk Detection](https://github.com/FaheemKRahman/splunk-practical) - A Windows detection project using Splunk
 
 
 
