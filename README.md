@@ -15,7 +15,6 @@ A short list of academic papers authored or co-authored during my studies at Uni
 
 
 ## Projects
-This portfolio will gradually be updated with projects. Most of these are cybersecurity related but there will gradually be some some non-cyber related projects included.
 
 - [NMAP Commands](https://github.com/FaheemKRahman/faheemkrahman/blob/main/NMAP.ipynb) - Demonstrating various nmap commands on Kali Linux
 - [MAC Address Spoofing](https://github.com/FaheemKRahman/faheemkrahman/blob/main/MAC.ipynb) - A small project where a spoof a MAC address using Kali Linux
