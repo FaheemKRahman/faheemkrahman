@@ -32,11 +32,9 @@ A short list of academic papers authored or co-authored during my studies at Uni
 
 
 ## Connections
-Feel free to connect with me on LinkedIn and TryHackMe, the links of both are below.
+Feel free to connect with me on LinkedIn.
 
 <a href="https://www.linkedin.com/in/faheemkrahman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/DoritoSheep38">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/DoritoSheep38.png" alt="Your Image Badge" />
-</a>
+
 
 
