@@ -1,6 +1,6 @@
 # Hi there, I'm Faheem!
 
-I am a current Cyber Security graduate with a profound interest in technology. I possess experience in areas such as network penetration testing and networking security.
+I am a recent Cyber Security graduate with a profound interest in technology. I possess experience in areas such as network penetration testing and networking security.
 
 ## Background
 
